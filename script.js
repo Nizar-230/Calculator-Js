@@ -83,7 +83,6 @@ function clearAll() {
     displayNumber();
 }
 
-
 function containerButton(buts) {
     const value = buts.value;
 
@@ -100,7 +99,6 @@ function containerButton(buts) {
             displayNumber();
         });
     }
-
 
     if (!isNaN(value) || value === ".") {
         pointButton();

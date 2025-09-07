@@ -90,9 +90,9 @@ button:hover {
 .remove :hover {
    background-color: rgb(155, 52, 52);
 }
-@media (max-width: 589px) {
+@media (max-width: 599px) {
     .calculate {
-        width: 90%;
+        width: 83%;
     }
 
     button {
